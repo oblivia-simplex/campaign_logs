@@ -12,4 +12,4 @@ title('Campaign Logs').
 admin('Lucca Fraser').
 domain('rpg.eschatronics.ca').
 email('lucca.fraser@gmail.com').
-abstract('Documenting an ongoing Dungeons and Dragons campaign, set in Eberron and its crystal sphere.') .
+abstract('Documenting an ongoing Dungeons & Dragons campaign, set in Eberron and its crystal sphere.').
