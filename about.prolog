@@ -13,3 +13,4 @@ admin('Lucca Fraser').
 domain('rpg.eschatronics.ca').
 email('lucca.fraser@gmail.com').
 abstract('Documenting an ongoing Dungeons & Dragons campaign, set in Eberron and its crystal sphere.').
+port(9696).
