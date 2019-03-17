@@ -60,17 +60,8 @@ h3 {
     font-size: 120%;
     font-family: Courier;
     line-height: 150%;
+    font-variant-ligatures: none;
     display: block;
-}
-
-@media only screen and (max-width: 800px) {
-    #main {
-        font-size: 110%;
-        margin-left: 5%;
-        margin-right: 5%;
-        width: 90%;
-        color: #fdfefc;
-    }
 }
 
 
@@ -176,3 +167,60 @@ blockquote {
     padding: 0.5em 10px;
     color: #adaedc;
 }
+
+.ascii_art {
+    line-height: 120%;
+    font-size: 100%;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.aside {
+    color: #8d8e8c;
+}
+
+.post_frontmatter {
+    color: #8d8e8c;
+}
+
+.title_hr {
+    border-color: #8d8e8c;
+}
+
+code {
+    font-size: 150%;
+    display: block;
+    background-color: black;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    color: #00ff85;
+    counter-reset: line;
+    font-weight: bold;
+
+}
+@media only screen and (max-width: 1000px) {
+    #main {
+        font-size: 110%;
+        margin-left: 3%;
+        margin-right: 3%;
+        width: 94%;
+        color: #fdfefc;
+    }
+    code {
+        font-size: 110%;
+        display: block;
+        background-color: black;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        color: #00ff85;
+        counter-reset: line;
+        font-weight: bold;
+
+    }
+
+}
+

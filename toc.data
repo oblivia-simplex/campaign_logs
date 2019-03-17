@@ -1,12 +1,20 @@
 [
 
-[file('001.Oliandra_backstory.md'),
-      title('Oliandra\'s Backstory'),
-      author('Vivian'),
-      tags([oliandra, backstory]),
-      date('2019-02-07'),
-      abstract('A brief biography of Oliandra Beaumont d\'Cannith, dealing with
-      her life prior to joining the party.')],
+    [file('001.Oliandra_backstory.md'),
+     title('Oliandra\'s Backstory'),
+     author('Vivian'),
+     tags([oliandra, backstory]),
+     date('2019-02-07'),
+     abstract('A brief biography of Oliandra Beaumont d\'Cannith, dealing with
+              her life prior to joining the party.')],
+    
+    [file('Nyf_Ovashill_backstory.md'),
+     title('Somehow I Jest: The Story of Nyf Ovashill'),
+     author('Jen Devlin'),
+     tags([nyf, backstory]),
+     date('2019-03-17'),
+     abstract('On Nyf\'s history, prior to joining the party.')],
+
 
 [file('101.karlak_log.md'),
       title('Travel Log of Major Wilston Karlak, 4th of Therendor'),
