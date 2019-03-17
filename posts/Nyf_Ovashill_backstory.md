@@ -94,8 +94,9 @@ specific."
 1. Not, of course, Earth's 
 [Lily Tomlin](https://en.wikipedia.org/wiki/Lily_Tomlin), of whom
 Nyf has no knowledge (being, as she is, a resident of Khorvaire), but
-the celebrated bard of Thrane, who, through a coincidence of which no-one in 
-Eberron is aware, is _also_ named Lily Tomlin, and, through an even more 
+the celebrated bard of Thrane, who, through a coincidence unknown to
+the people of Eberron,
+is _also_ named Lily Tomlin, and, through an even more 
 astonishing coincidence, bears a striking resemblance to her namesake on
 Earth. 
 
