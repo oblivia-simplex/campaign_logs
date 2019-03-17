@@ -89,7 +89,7 @@ specific."
 
 ## Footnotes
 
-Not, of course, Earth's 
+1. Not, of course, Earth's 
 [Lily Tomlin](https://en.wikipedia.org/wiki/Lily_Tomlin), of whom
 Nyf has no knowledge (being, as she is, a resident of Khorvaire), but
 the celebrated bard of Thrane, who, through a coincidence of which no-one in 
