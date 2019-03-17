@@ -1,7 +1,7 @@
 ﻿## Description 
 
 My name is Nyf Ovashill and I am 3'3 and 40 lbs. I look like a young 
-[Lily Tomlin](#tomlin_footnote) with red hair and I dress in clothing that look
+[Lily Tomlin](#tomlin_footnote)<sup>1</sup> with red hair and I dress in clothing that look
 like someone shrunk Aragorn's ranger clothes. I'm 20 years old and a Lightfoot
 Halfling. I am neutral good. My weapon of choice is my bow and arrows but I
 also have 2 short swords. My armour is leather and I have a raptor steed who
@@ -88,6 +88,8 @@ specific."
 <a name="tomlin_footnote"></a>
 
 ## Footnotes
+
+---
 
 1. Not, of course, Earth's 
 [Lily Tomlin](https://en.wikipedia.org/wiki/Lily_Tomlin), of whom
