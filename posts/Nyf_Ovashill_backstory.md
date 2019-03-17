@@ -1,7 +1,4 @@
-﻿# Somehow I Jest Quest by Nyf Ovashill. 
-
-
-## Description 
+﻿## Description 
 
 My name is Nyf Ovashill and I am 3'3 and 40 lbs. I look like a young 
 [Lily Tomlin](#tomlin_footnote) with red hair and I dress in clothing that look
